@@ -154,10 +154,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: c#
+      - name: c# app
         level: 98%
 
-      - name: Java
+      - name: Java Spring
         level: 80%
 
       - name: Python
