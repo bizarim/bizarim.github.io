@@ -83,22 +83,22 @@ experiences:
       time: 2018 - Present
       company: 스마일게이트, 판교
       details: |
-          - C# .NET, JAVA Spring
           - PC 빌링 백엔드 API 및 백오피스 API 개발
           - 모바일 빌링 백엔드 API 개발
           - GIT, Jenkins 빌드 배포
           - JIRA, Confluence 사용
+          - C# .NET, JAVA Spring
 
     - role: 게임 서버 개발자
       time: 2017 - 2018
       company: 이디오크러시, 판교
       details: |
-          - C# superwebsocket, supersocket framework 사용
           - authserver: self-hosting http, 회원관리 및 SessionKey 관리
           - lobbyserver: WebSocket, 게임관련 event 처리
           - gameroomserver: 게임룸 관련 process
           - matchingserver: mmr에 따른 매칭 처리
           - 콘텐츠 개발: battle ai, pvp matching, league 개발 외 모든 개발
+          - C# superwebsocket, supersocket framework 사용
           - Db 수동 Sharding / schema / sp / Table 설계 작업, LINQ to SQL 사용
           - 빌링 연동: ios, android inAppPurchase 및 영수증 검증
           - 글로벌 서비스: dau 20만 처리
@@ -108,10 +108,8 @@ experiences:
       time: 2016 - 2017
       company: CodeCoreGames, 판교
       details: |
-          - Bullet point
-          - Bullet point
           - C# Server library 제작 (logger, Thread, db conn 등)
-          - C# none-block async socket 사용한 Back-end Server 제작
+          - C# none-block async socket 사용한 Server 제작
           - Java Netty Framework 이용한 Http Server 개발
           - db schema / sp / Table 설계 작업
           - 모든 콘텐츠 구현 (디아블로식 아이템 시스템)
@@ -121,7 +119,7 @@ experiences:
       time: 2012 - 2014
       company: 실버스타게임즈, 분당
       details: |
-          - Node.js 서버
+          - Node.js WAS
           - express, Winston, body-parser, async module을 사용한 http server 제작
           - pm2를 이용한 프로세스 관리
           - 업적, 아레나, 던전 콘텐츠 제작
@@ -133,7 +131,7 @@ experiences:
       details: |
           - C++ IOCP Tcp/ip 서버 제작
           - C# Server library 제작 (logger, Thread, db conn 등)
-          - C# none-block async socket 사용한 Back-end Server 제작
+          - C# none-block async socket 사용한 Server 제작
           - db schema / sp / Table 설계 작업
           - 가챠 시스템, 친구 시스템 외 모든 콘텐츠 구현
           - 카카오 api 연동 및 빌링 연동 
