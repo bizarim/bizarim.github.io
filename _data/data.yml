@@ -106,9 +106,9 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: 백엔드 플랫폼 개발자
+      time: 2018 - Present
+      company: 스마일게이트, 판교
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -123,9 +123,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: 게임 서버 개발자
+      time: 2017 - 2018
+      company: 이디오크러시, 판교
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -136,9 +136,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
+    - role: 게임 서버 개발자
       time: 2012 - 2014
-      company: Amazon, London
+      company: CodeCoreGames, 판교
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -149,6 +149,31 @@ experiences:
           - Bullet point
           - Bullet point
 
+    - role: 게임 서버 개발자
+      time: 2012 - 2014
+      company: FMStudio, 분당
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - role: MMORPG 기획자
+      time: 2012 - 2014
+      company: 갈라랩, 서울
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
 
 skills:
     title: Skills &amp; Proficiency
