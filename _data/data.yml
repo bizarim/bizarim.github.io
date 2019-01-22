@@ -64,7 +64,19 @@ education:
 
           - Bullet point
           - Bullet point
+          
+    - degree: 강릉고등학교
+      university: 
+      time: 1998 - 2001
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
 
+          - Bullet point
+          - Bullet point
 
 projects:
     title: Projects
