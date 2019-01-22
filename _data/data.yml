@@ -101,7 +101,7 @@ experiences:
           - C# superwebsocket, supersocket framework 사용
           - Db 수동 Sharding / schema / sp / Table 설계 작업, LINQ to SQL 사용
           - 빌링 연동: ios, android inAppPurchase 및 영수증 검증
-          - 글로벌 서비스: dau 2만 처리
+          - 글로벌 서비스: dau 20만 처리
           - Patch Tool 제작 (winform) / 운영툴 제작 (MVC Web Applications 기본작업)
 
     - role: 게임 서버 개발자
@@ -151,7 +151,7 @@ projects:
     assignments:
       - title: 캡틴스리그
         link: "https://itunes.apple.com/kr/app/%EC%A3%BC%EC%82%AC%EC%9C%84-%EB%8C%80%EB%82%9C%ED%88%AC-%EC%BA%A1%ED%8B%B4%EC%8A%A4-%EB%A6%AC%EA%B7%B8/id1286987058?mt=8"
-        tagline: "메인 서버 개발 / ios 140국 동시 오픈, android 국내 피쳐드 / 2018인디게임 top 20 / Dau 2만"
+        tagline: "메인 서버 개발 / ios 140국 동시 오픈, android 국내 피쳐드 / 2018인디게임 top 20 / Dau 20만"
 
       - title: 동화특공대
         link: "http://game.donga.com/74445/"
