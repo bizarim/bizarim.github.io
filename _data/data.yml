@@ -77,6 +77,73 @@ education:
           - Bullet point
           - Bullet point
 
+experiences:
+    - role: 백엔드 플랫폼 개발자
+      time: 2018 - Present
+      company: 스마일게이트, 판교
+      details: |
+          - C# .NET, JAVA Spring
+          - PC 빌링 백엔드 API 및 백오피스 API 개발
+          - 모바일 빌링 백엔드 API 개발
+          - GIT, Jenkins 빌드 배포
+          - JIRA, Confluence 사용
+
+    - role: 게임 서버 개발자
+      time: 2017 - 2018
+      company: 이디오크러시, 판교
+      details: |
+          - C# superwebsocket, supersocket framework 사용
+          - authserver: self-hosting http, 회원관리 및 SessionKey 관리
+          - lobbyserver: WebSocket, 게임관련 event 처리
+          - gameroomserver: 게임룸 관련 process
+          - matchingserver: mmr에 따른 매칭 처리
+          - 콘텐츠 개발: battle ai, pvp matching, league 개발 외 모든 개발
+          - Db 수동 Sharding / schema / sp / Table 설계 작업, LINQ to SQL 사용
+          - 빌링 연동: ios, android inAppPurchase 및 영수증 검증
+          - 글로벌 서비스: dau 20만 처리
+          - Patch Tool 제작 (winform) / 운영툴 제작 (MVC Web Applications 기본작업)
+
+    - role: 게임 서버 개발자
+      time: 2016 - 2017
+      company: CodeCoreGames, 판교
+      details: |
+          - Bullet point
+          - Bullet point
+          - C# Server library 제작 (logger, Thread, db conn 등)
+          - C# none-block async socket 사용한 Back-end Server 제작
+          - Java Netty Framework 이용한 Http Server 개발
+          - db schema / sp / Table 설계 작업
+          - 모든 콘텐츠 구현 (디아블로식 아이템 시스템)
+          - 빌링 연동: ios, android inAppPurchase 및 영수증 검증
+
+    - role: 게임 서버 개발자
+      time: 2012 - 2014
+      company: 실버스타게임즈, 분당
+      details: |
+          - Node.js 서버
+          - express, Winston, body-parser, async module을 사용한 http server 제작
+          - pm2를 이용한 프로세스 관리
+          - 업적, 아레나, 던전 콘텐츠 제작
+          - db Sharding / schema / sp / Table 설계 작업
+
+    - role: 게임 서버 개발자
+      time: 2012 - 2014
+      company: FMStudio, 분당
+      details: |
+          - C++ IOCP Tcp/ip 서버 제작
+          - C# Server library 제작 (logger, Thread, db conn 등)
+          - C# none-block async socket 사용한 Back-end Server 제작
+          - db schema / sp / Table 설계 작업
+          - 가챠 시스템, 친구 시스템 외 모든 콘텐츠 구현
+          - 카카오 api 연동 및 빌링 연동 
+
+    - role: MMORPG 기획자
+      time: 2009 - 2011
+      company: 갈라랩, 서울
+      details: |
+        ㈜GALALAB / Flyff2 Team
+          - 기획자
+
 projects:
     title: Projects
     intro: >
@@ -85,95 +152,17 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: 캡틴스리그
+        link: "https://itunes.apple.com/kr/app/%EC%A3%BC%EC%82%AC%EC%9C%84-%EB%8C%80%EB%82%9C%ED%88%AC-%EC%BA%A1%ED%8B%B4%EC%8A%A4-%EB%A6%AC%EA%B7%B8/id1286987058?mt=8"
+        tagline: "메인 서버 개발 / ios 140국 동시 오픈, android 국내 피쳐드 / 2018인디게임 top 20 / Dau 20만"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 동화특공대
+        link: "http://game.donga.com/74445/"
+        tagline: "메인 서버 개발 / Kakaogame / 회원수 30만"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-experiences:
-    - role: 백엔드 플랫폼 개발자
-      time: 2018 - Present
-      company: 스마일게이트, 판교
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
-
-    - role: 게임 서버 개발자
-      time: 2017 - 2018
-      company: 이디오크러시, 판교
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: 게임 서버 개발자
-      time: 2012 - 2014
-      company: CodeCoreGames, 판교
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: 게임 서버 개발자
-      time: 2012 - 2014
-      company: FMStudio, 분당
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: MMORPG 기획자
-      time: 2012 - 2014
-      company: 갈라랩, 서울
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      - title: 진삼국지
+        link: "http://gametoc.hankyung.com/news/articleView.html?idxno=6803"
+        tagline: "메인 서버 개발 / 게임빌 / 국내, 북미 오픈"
 
 skills:
     title: Skills &amp; Proficiency
