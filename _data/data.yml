@@ -79,8 +79,21 @@ education:
           - Bullet point
 
 experiences:
+    - role: 게임 서버 개발자
+      time: 2019.02.25 - 현재
+      company: 뉴럴비씨
+      details: |
+        - javascript es6 버전으로 개발
+        - express, Winston, mysql2 module을 사용한 http server 제작
+        - db, redis async/await module 제작
+        - mocha를 이용한 단위테스트 제작
+        - 기본 슬롯머신
+        - Reelset, Spin, Scatter data 및 구조 설계
+        - 가상화폐 결제 연동
+        - 지갑생성, 잔액 조회. 출금 연동
+
     - role: 백엔드 플랫폼 개발자
-      time: 2018 - Present
+      time: 2018.07 - 2019.01
       company: 스마일게이트, 판교
       details: |
           - PC 빌링 백엔드 API 및 백오피스 API 개발
