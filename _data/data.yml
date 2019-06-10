@@ -83,14 +83,13 @@ experiences:
       time: 2019.02.25 - 현재
       company: 뉴럴비씨
       details: |
-        - javascript es6 버전으로 개발
         - express, Winston, mysql2, bluebird 등 node module을 사용한 web application server 제작
         - javascript es6 버전으로 개발
         - mysql, redis async/await module 제작 (waterfull callback 방식을 지양한 비동기 모델 구축)
         - mocha를 이용한 단위테스트
         - 컨텐츠 및 시스템
-          기본 슬롯머신: Reelset, Spin, Scatter data 및 구조 설계
-          미션, 추천인 등 out game 컨텐츠 제작
+        - 기본 슬롯머신: Reelset, Spin, Scatter data 및 구조 설계
+        - 미션, 추천인 등 out game 컨텐츠 제작
         - 가상화폐 결제 연동
 
 
@@ -108,16 +107,21 @@ experiences:
       time: 2017 - 2018
       company: 이디오크러시, 판교
       details: |
-          - authserver: self-hosting http, 회원관리 및 SessionKey 관리
-          - lobbyserver: WebSocket, 게임관련 event 처리
-          - gameroomserver: 게임룸 관련 process
-          - matchingserver: mmr에 따른 매칭 처리
-          - 콘텐츠 개발: battle ai, pvp matching, league 개발 외 모든 개발
-          - C# superwebsocket, supersocket framework 사용
-          - Db 수동 Sharding / schema / sp / Table 설계 작업, LINQ to SQL 사용
+          - C# superwebsocket, supersocket framework 사용한 서버 제작
+          - 서버 구성
+          - authServer: http 서버, 회원관리 및 sessionKey 관리
+          - lobbyServer: webSocket 서버, out game 컨텐츠 처리
+          - gameRoomServer: 보드 게임 관련 로직(room 생성, 진행, 소멸) 처리
+          - matchingServer: mmr에 따른 matching 처리
+          - rankingServer: league season 처리
+          - Protocol, client-server통신을 위한 DLL 개발
+          - 콘텐츠 및 시스템 개발
+          - 인게임: card skill, battle AI, game room, pvp matching, league 개발
+          - 아웃게임: 상점, 미션 개발
+          - Db 수평 Sharding / sp / Table schema 설계 작업 (LINQ to SQL 사용)
           - 빌링 연동: ios, android inAppPurchase 및 영수증 검증
-          - 글로벌 서비스: dau 2만 처리
-          - Patch Tool 제작 (winform) / 운영툴 제작 (MVC Web Applications 기본작업)
+          - data, Patch Tool 제작 (winform)
+
 
     - role: 게임 서버 개발자
       time: 2016 - 2017
@@ -175,13 +179,6 @@ projects:
       - title: 진삼국지
         link: "http://gametoc.hankyung.com/news/articleView.html?idxno=6803"
         tagline: "메인 서버 개발 / 게임빌 / 국내, 북미 오픈"
-
-pr:
-    title: 
-    details: |
-      읽는 책 |
-      최근 관심분야 |
-
 
 skills:
     title: Skills &amp; Proficiency
