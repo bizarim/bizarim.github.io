@@ -83,31 +83,29 @@ experiences:
       time: 2019.06.30 - 현재
       company: 뉴럴비씨
       details: |
-        - 암호화폐 Wallet 개발
-        - 회원 api server, 서비스 제공자 및 일반 회원 관리 개발
-        - wallet api server, 지갑 서비스 api 개발
-        - ledger api server, 코인 node 통신, address 관리 개발
-        - noti/scheduler server, transaction 및 block 유효성 추적, unspentlist 관리 개발
-        - 제작 module
-        - Json RPC 통신 module
-        - Mysql, Redis module
-
+          - 암호화폐 Wallet 개발
+          - 회원 api server/ 서비스 제공자 및 일반 회원 관리 개발
+          - wallet api server/ 지갑 서비스 api 개발
+          - ledger api server/ 코인 node 통신, address 관리 개발
+          - noti/scheduler server/ transaction 및 block 유효성 추적, unspentlist 관리 개발
+          - 제작 module
+          - Json RPC 통신 module
+          - Mysql, Redis module
         
     - role: 게임 서버 개발자
       time: 2019.02.25 - 2019.06.30
       company: 뉴럴비씨
       details: |
-      - 슬롯머신 서버 개발 (web application server)
-      -	인증서버, 회원 관리, 서버인증 처리, 
-      -	로비서버, 미션, 상점, 일일 보상, 메일함, 추천인 구현
-      -	게임서버, 슬롯머신 기본 구조 설계 (Reelset, Spin, Scatter)
-      -	결제서버, 가상화폐 결제 연동
-      -	정산서버, 추천인에게 누적 게임 플레이에 대한 주간 정산
-      - 사용 framework
-      -	express, Winston, mysql2, bluebird 등 node module
-      - 제작 framework
-      -	mysql, redis module (waterfull callback 방식을 지양한 비동기 모델 구축)
-
+          - 슬롯머신 서버 개발 (web application server)
+          - 인증서버/ 회원 관리, 서버인증 처리, 
+          - 로비서버/ 미션, 상점, 일일 보상, 메일함, 추천인 구현
+          - 게임서버/ 슬롯머신 기본 구조 설계 (Reelset, Spin, Scatter)
+          - 결제서버/ 가상화폐 결제 연동
+          - 정산서버/ 추천인에게 누적 게임 플레이에 대한 주간 정산
+          - 사용 framework
+          - express, Winston, mysql2, bluebird 등 node module
+          - 제작 framework
+          - mysql, redis module (waterfull callback 방식을 지양한 비동기 모델 구축)
 
     - role: 백엔드 플랫폼 개발자
       time: 2018.07 - 2019.01
@@ -137,7 +135,6 @@ experiences:
           - Db 수평 Sharding / sp / Table schema 설계 작업 (LINQ to SQL 사용)
           - 빌링 연동: ios, android inAppPurchase 및 영수증 검증
           - data, Patch Tool 제작 (winform)
-
 
     - role: 게임 서버 개발자
       time: 2016 - 2017
