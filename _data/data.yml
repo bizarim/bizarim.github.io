@@ -48,7 +48,7 @@ career-profile:
     title: Career Profile
     summary: |
       게임 서버 개발 6년 |
-      백엔드 플랫폼 개발 6개월 |
+      백엔드 플랫폼 개발 1년 |
       MMORPG 기획 2년 |
 
 education:
@@ -79,18 +79,34 @@ education:
           - Bullet point
 
 experiences:
-    - role: 게임 서버 개발자
-      time: 2019.02.25 - 현재
+    - role: 암호화폐 지갑 개발자
+      time: 2019.06.30 - 현재
       company: 뉴럴비씨
       details: |
-        - express, Winston, mysql2, bluebird 등 node module을 사용한 web application server 제작
-        - javascript es6 버전으로 개발
-        - mysql, redis async/await module 제작 (waterfull callback 방식을 지양한 비동기 모델 구축)
-        - mocha를 이용한 단위테스트
-        - 컨텐츠 및 시스템
-        - 기본 슬롯머신: Reelset, Spin, Scatter data 및 구조 설계
-        - 미션, 추천인 등 out game 컨텐츠 제작
-        - 가상화폐 결제 연동
+        - 암호화폐 Wallet 개발
+        - 회원 api server: 서비스 제공자 및 일반 회원 관리 개발
+        - wallet api server: 지갑 서비스 api 개발
+        - ledger api server: 코인 node 통신, address 관리 개발
+        - noti/scheduler server: transaction 및 block 유효성 추적, unspentlist 관리 개발
+        - 제작 module
+        - Json RPC 통신 module
+        - Mysql, Redis module
+
+        
+    - role: 게임 서버 개발자
+      time: 2019.02.25 - 2019.06.30
+      company: 뉴럴비씨
+      details: |
+      - 슬롯머신 서버 개발 (web application server)
+      -	인증서버: 회원 관리, 서버인증 처리, 
+      -	로비서버: 미션, 상점, 일일 보상, 메일함, 추천인 구현
+      -	게임서버: 슬롯머신 기본 구조 설계 (Reelset, Spin, Scatter)
+      -	결제서버: 가상화폐 결제 연동
+      -	정산서버: 추천인에게 누적 게임 플레이에 대한 주간 정산
+      - 사용 framework
+      -	express, Winston, mysql2, bluebird 등 node module
+      - 제작 framework
+      -	mysql, redis module (waterfull callback 방식을 지양한 비동기 모델 구축)
 
 
     - role: 백엔드 플랫폼 개발자
@@ -185,6 +201,9 @@ skills:
 
     toolset:
       - name: c# app
+        level: 98%
+
+      - name: TypeScript
         level: 98%
 
       - name: Javascript
