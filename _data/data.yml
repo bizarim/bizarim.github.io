@@ -79,18 +79,26 @@ education:
           - Bullet point
 
 experiences:
-    - role: 암호화폐 지갑 개발자
-      time: 2019.06.30 - 현재
+    - role: 거래소 front-end
+      time: 2019.11.30 - 2020.03.31
       company: 뉴럴비씨
       details: |
-          - 암호화폐 Wallet 개발
-          - 회원 api server/ 서비스 제공자 및 일반 회원 관리 개발
-          - wallet api server/ 지갑 서비스 api 개발
-          - ledger api server/ 코인 node 통신, address 관리 개발
-          - noti/scheduler server/ transaction 및 block 유효성 추적, unspentlist 관리 개발
-          - 제작 module
-          - Json RPC 통신 module
-          - Mysql, Redis module
+        - 암호 화폐 거래소 front-end 개발
+        - react, typescript를 이용한 front-end 개발
+        - media query를 이용한 반응형 웹 적용
+        - postcss 이용한 마크업 적용
+        - react-saga 사용
+    - role: 암호화폐 지갑 개발자
+      time: 2019.06.30 - 2019.11.30
+      company: 뉴럴비씨
+      details: |
+        - 암호화폐 Wallet 개발
+        - wallet api server/ 지갑 서비스 api 개발
+        - ledger api server/ 코인 node 통신, address 관리 개발
+        - noti/scheduler server/ transaction 및 block 유효성 추적, unspentlist 관리 개발
+        - 제작 module
+        - Json RPC 통신 module
+        - Mysql, Redis module
         
     - role: 게임 서버 개발자
       time: 2019.02.25 - 2019.06.30
