@@ -50,7 +50,7 @@ career-profile:
       game server develop 7년 |
       back-end develop 3년 |
       front-end develop 1년 |
-      MMORPG 기획 2년 |
+      mmorpg 기획 2년 |
 
 education:
     - degree: 전자공학과
@@ -94,7 +94,7 @@ experiences:
         - dotnet 6.0 / react 15 ts
 
     - role: backoffice full stack 개발자
-      time: 2020.07 - 2020.11 
+      time: 2021.12 - 2022.03
       company: ㈜디렉트, 서울
       details: |
         - front-end: vue3-ts, vuex4, quasar 사용 
@@ -228,20 +228,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: c# app
+      - name: C#, dotnet
         level: 98%
 
-      - name: TypeScript
+      - name: node, Typescript
         level: 98%
-
-      - name: Javascript
-        level: 80%
 
       - name: Java
         level: 80%
 
       - name: C++
         level: 60%
+
+      - name: React, Typescript
+        level: 90%
+
+      - name: Vue, Typescript
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
