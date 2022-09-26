@@ -84,8 +84,8 @@ experiences:
       time: 2022.05 - 현재
       company: (주)diverse, 판교
       details: |
-        - auth web server: 회원 관리 및 인증 서비스 개발
-        - game web server: 베팅 및 out game 컨텐츠 개발
+        - auth api server: 회원 관리 및 인증 서비스 개발
+        - game api server: 베팅 및 out game 컨텐츠 개발
         - race app server: race 시스템 개발
         - payout app server: 배당금 시스템 개발
         - block sync app server: 블럭 정보 확인 시스템 개발
@@ -136,9 +136,9 @@ experiences:
       time: 2019.02.25 - 2019.06.30
       company: 뉴럴비씨, 서울
       details: |
-        - 인증서버: 회원 관리, 서버인증 개발
-        - 로비서버: 미션, 상점, 일일 보상, 메일함, 추천인 개발
-        - 게임서버: 슬롯머신 기본 구조 설계 (Reelset, Spin, Scatter) 및 개발
+        - auth api server: 회원 관리, 서버인증 개발
+        - lobby api server: 미션, 상점, 일일 보상, 메일함, 추천인 개발
+        - game api server: 슬롯머신 기본 구조 설계 (Reelset, Spin, Scatter) 및 개발
         - 결제서버: 가상화폐 결제 연동
         - 정산서버: 추천인에게 누적 게임 플레이에 대한 주간 정산
 
@@ -155,10 +155,9 @@ experiences:
       time: 2017 - 2018
       company: 이디오크러시, 판교
       details: |
-        - C# superwebsocket, supersocket framework 사용한 서버 제작
-        - auth server: 회원관리 및 인증 서비스 개발
+        - auth api server: 회원관리 및 인증 서비스 개발
         - lobby server: webSocket 서버, out game 컨텐츠 개발
-        - game server: 보드 게임 관련 로직(room 생성, 진행, 소멸) 개발
+        - game server: webSocket 서버, 보드 게임 관련 로직(room 생성, 진행, 소멸) 개발
         - matching server: mmr에 따른 matching 개발
         - ranking server: league season 개발
         - Protocol, client-server통신을 위한 DLL 개발
@@ -167,6 +166,7 @@ experiences:
         - 아웃게임: 상점, 미션 개발
         - Db 수평 Sharding / sp / Table schema 설계 작업 (LINQ to SQL 사용)
         - 빌링 연동: ios, android inAppPurchase 및 영수증 검증
+        - C# superwebsocket, supersocket framework 사용한 서버 제작
 
     - role: 게임 서버 개발자
       time: 2016 - 2017
@@ -183,11 +183,10 @@ experiences:
       time: 2012 - 2014
       company: 실버스타게임즈, 분당
       details: |
-        - Node.js WAS
-        - express, Winston, body-parser, async module을 사용한 http server 제작
-        - pm2를 이용한 프로세스 관리
-        - 업적, 아레나, 던전 콘텐츠 제작
+        - auth api server: 회원 관리 및 인증 서비스 개발
+        - game api server: 업적, 아레나, 던전 시스템 및 콘텐츠 개발
         - db Sharding / schema / sp / Table 설계 작업
+        - node.js / mysql
 
     - role: 게임 서버 개발자
       time: 2012 - 2014
