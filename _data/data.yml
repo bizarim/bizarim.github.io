@@ -91,6 +91,7 @@ experiences:
         - block sync app server: 블럭 정보 확인 시스템 개발
         - polygon fullnode 구축 및 연동
         - erc-20 smart contract 개발 및 배포
+        - dotnet 6.0 / react 15 ts
 
     - role: 백오피스 개발
       time: 2020.07 - 2020.11 
@@ -100,6 +101,7 @@ experiences:
         - back-end: node-ts, mongodb, graphql 사용 
         - eth mainnet transaction 해석 
         - defi contract 해석 및 alarm 서비스 개발
+        - python 3.9
 
     - role: front-end react chart 개발
       time: 2020.07 - 2020.11 
@@ -107,6 +109,7 @@ experiences:
       details: |
         - canvas draw 이용 차트 개발
         - chart animantion 적용
+        - react 15 / typescript
 
     - role: 거래소 front-end
       time: 2019.11.30 - 2020.03.31
@@ -121,33 +124,30 @@ experiences:
       time: 2019.06.30 - 2019.11.30
       company: 뉴럴비씨
       details: |
-        - 암호화폐 Wallet 개발
-        - wallet api server/ 지갑 서비스 api 개발
-        - ledger api server/ 코인 node 통신, address 관리 개발
-        - noti/scheduler server/ transaction 및 block 유효성 추적, unspentlist 관리 개발
-        - 제작 module
-        - Json RPC 통신 module
-        - Mysql, Redis module
+        - user api server: 회원 관리 및 인증 서버
+        - wallet api server: 지갑 관리 서비스 개발
+        - ledger api server: node rpc 통신, 지갑 동기화 개발
+        - noti scheduler server: block 유효성 추적 및 알림 서비스 개발
+        - bitcoin / etherium fullnode 구축 및 연동
+        - node / typescript
         
-    - role: 게임 서버 개발자
+    - role: 슬롯머신 서버 개발
       time: 2019.02.25 - 2019.06.30
       company: 뉴럴비씨
       details: |
-        - 슬롯머신 서버 개발 (web application server)
-        - 인증서버/ 회원 관리, 서버인증 개발
-        - 로비서버/ 미션, 상점, 일일 보상, 메일함, 추천인 개발
-        - 게임서버/ 슬롯머신 기본 구조 설계 (Reelset, Spin, Scatter) 및 개발
-        - 결제서버/ 가상화폐 결제 연동
-        - 정산서버/ 추천인에게 누적 게임 플레이에 대한 주간 정산
+        - 인증서버: 회원 관리, 서버인증 개발
+        - 로비서버: 미션, 상점, 일일 보상, 메일함, 추천인 개발
+        - 게임서버: 슬롯머신 기본 구조 설계 (Reelset, Spin, Scatter) 및 개발
+        - 결제서버: 가상화폐 결제 연동
+        - 정산서버: 추천인에게 누적 게임 플레이에 대한 주간 정산
 
-    - role: 백엔드 플랫폼 개발자
+    - role: 백엔드 플랫폼 개발
       time: 2018.07 - 2019.01
       company: 스마일게이트, 판교
       details: |
         - PC 빌링 백엔드 API 및 백오피스 API 개발
         - 모바일 빌링 백엔드 API 개발
         - GIT, Jenkins 빌드 배포
-        - JIRA, Confluence 사용
         - C# .NET, JAVA Spring
 
     - role: 게임 서버 개발자
@@ -155,19 +155,17 @@ experiences:
       company: 이디오크러시, 판교
       details: |
         - C# superwebsocket, supersocket framework 사용한 서버 제작
-        - 서버 구성
-        - authServer: http 서버, 회원관리
-        - lobbyServer: webSocket 서버, out game 컨텐츠 개발
-        - gameRoomServer: 보드 게임 관련 로직(room 생성, 진행, 소멸) 개발
-        - matchingServer: mmr에 따른 matching 개발
-        - rankingServer: league season 개발
+        - auth server: 회원관리 및 인증 서비스 개발
+        - lobby server: webSocket 서버, out game 컨텐츠 개발
+        - game server: 보드 게임 관련 로직(room 생성, 진행, 소멸) 개발
+        - matching server: mmr에 따른 matching 개발
+        - ranking server: league season 개발
         - Protocol, client-server통신을 위한 DLL 개발
         - 콘텐츠 및 시스템 개발
         - 인게임: card skill, battle AI, game room, pvp matching, league 개발
         - 아웃게임: 상점, 미션 개발
         - Db 수평 Sharding / sp / Table schema 설계 작업 (LINQ to SQL 사용)
         - 빌링 연동: ios, android inAppPurchase 및 영수증 검증
-        - data, Patch Tool 제작 (winform)
 
     - role: 게임 서버 개발자
       time: 2016 - 2017
