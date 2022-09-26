@@ -79,6 +79,34 @@ education:
           - Bullet point
 
 experiences:
+    - role: racing game server 개발
+      time: 2022.05 - 현재
+      company: (주)diverse
+      details: |
+        - auth web server: 회원 관리 및 인증 서비스 개발
+        - game web server: 베팅 및 out game 컨텐츠 개발
+        - race app server: race 시스템 개발
+        - payout app server: 배당금 시스템 개발
+        - block sync app server: 블럭 정보 확인 시스템 개발
+        - polygon fullnode 구축 및 연동
+        - erc-20 smart contract 개발 및 배포
+
+    - role: 백오피스 개발
+      time: 2020.07 - 2020.11 
+      company: ㈜디렉트
+      details: |
+        - front-end: vue3-ts, vuex4, quasar 사용 
+        - back-end: node-ts, mongodb, graphql 사용 
+        - eth mainnet transaction 해석 
+        - defi contract 해석 및 alarm 서비스 개발
+
+    - role: front-end react chart 개발
+      time: 2020.07 - 2020.11 
+      company: 에이프로테크
+      details: |
+        - canvas draw 이용 차트 개발
+        - chart animantion 적용
+
     - role: 거래소 front-end
       time: 2019.11.30 - 2020.03.31
       company: 뉴럴비씨
@@ -87,7 +115,7 @@ experiences:
         - react, typescript를 이용한 front-end 개발
         - media query를 이용한 반응형 웹 적용
         - postcss 이용한 마크업 적용
-        - react-saga 사용
+
     - role: 암호화폐 지갑 개발자
       time: 2019.06.30 - 2019.11.30
       company: 뉴럴비씨
@@ -104,77 +132,73 @@ experiences:
       time: 2019.02.25 - 2019.06.30
       company: 뉴럴비씨
       details: |
-          - 슬롯머신 서버 개발 (web application server)
-          - 인증서버/ 회원 관리, 서버인증 처리, 
-          - 로비서버/ 미션, 상점, 일일 보상, 메일함, 추천인 구현
-          - 게임서버/ 슬롯머신 기본 구조 설계 (Reelset, Spin, Scatter)
-          - 결제서버/ 가상화폐 결제 연동
-          - 정산서버/ 추천인에게 누적 게임 플레이에 대한 주간 정산
-          - 사용 framework
-          - express, Winston, mysql2, bluebird 등 node module
-          - 제작 framework
-          - mysql, redis module (waterfull callback 방식을 지양한 비동기 모델 구축)
+        - 슬롯머신 서버 개발 (web application server)
+        - 인증서버/ 회원 관리, 서버인증 개발
+        - 로비서버/ 미션, 상점, 일일 보상, 메일함, 추천인 개발
+        - 게임서버/ 슬롯머신 기본 구조 설계 (Reelset, Spin, Scatter) 및 개발
+        - 결제서버/ 가상화폐 결제 연동
+        - 정산서버/ 추천인에게 누적 게임 플레이에 대한 주간 정산
 
     - role: 백엔드 플랫폼 개발자
       time: 2018.07 - 2019.01
       company: 스마일게이트, 판교
       details: |
-          - PC 빌링 백엔드 API 및 백오피스 API 개발
-          - 모바일 빌링 백엔드 API 개발
-          - GIT, Jenkins 빌드 배포
-          - JIRA, Confluence 사용
-          - C# .NET, JAVA Spring
+        - PC 빌링 백엔드 API 및 백오피스 API 개발
+        - 모바일 빌링 백엔드 API 개발
+        - GIT, Jenkins 빌드 배포
+        - JIRA, Confluence 사용
+        - C# .NET, JAVA Spring
 
     - role: 게임 서버 개발자
       time: 2017 - 2018
       company: 이디오크러시, 판교
       details: |
-          - C# superwebsocket, supersocket framework 사용한 서버 제작
-          - 서버 구성
-          - authServer: http 서버, 회원관리 및 sessionKey 관리
-          - lobbyServer: webSocket 서버, out game 컨텐츠 처리
-          - gameRoomServer: 보드 게임 관련 로직(room 생성, 진행, 소멸) 처리
-          - matchingServer: mmr에 따른 matching 처리
-          - rankingServer: league season 처리
-          - Protocol, client-server통신을 위한 DLL 개발
-          - 콘텐츠 및 시스템 개발
-          - 인게임: card skill, battle AI, game room, pvp matching, league 개발
-          - 아웃게임: 상점, 미션 개발
-          - Db 수평 Sharding / sp / Table schema 설계 작업 (LINQ to SQL 사용)
-          - 빌링 연동: ios, android inAppPurchase 및 영수증 검증
-          - data, Patch Tool 제작 (winform)
+        - C# superwebsocket, supersocket framework 사용한 서버 제작
+        - 서버 구성
+        - authServer: http 서버, 회원관리
+        - lobbyServer: webSocket 서버, out game 컨텐츠 개발
+        - gameRoomServer: 보드 게임 관련 로직(room 생성, 진행, 소멸) 개발
+        - matchingServer: mmr에 따른 matching 개발
+        - rankingServer: league season 개발
+        - Protocol, client-server통신을 위한 DLL 개발
+        - 콘텐츠 및 시스템 개발
+        - 인게임: card skill, battle AI, game room, pvp matching, league 개발
+        - 아웃게임: 상점, 미션 개발
+        - Db 수평 Sharding / sp / Table schema 설계 작업 (LINQ to SQL 사용)
+        - 빌링 연동: ios, android inAppPurchase 및 영수증 검증
+        - data, Patch Tool 제작 (winform)
 
     - role: 게임 서버 개발자
       time: 2016 - 2017
       company: CodeCoreGames, 판교
       details: |
-          - C# Server library 제작 (logger, Thread, db conn 등)
-          - C# none-block async socket 사용한 Server 제작
-          - Java Netty Framework 이용한 Http Server 개발
-          - db schema / sp / Table 설계 작업
-          - 모든 콘텐츠 구현 (디아블로식 아이템 시스템)
-          - 빌링 연동: ios, android inAppPurchase 및 영수증 검증
+        - C# Server library 제작 (logger, Thread, db conn 등)
+        - C# none-block async socket 사용한 Server 제작
+        - Java Netty Framework 이용한 Http Server 개발
+        - db schema / sp / Table 설계 작업
+        - 콘텐츠 구현 (디아블로식 아이템 시스템)
+        - 빌링 연동: ios, android inAppPurchase 및 영수증 검증
 
     - role: 게임 서버 개발자
       time: 2012 - 2014
       company: 실버스타게임즈, 분당
       details: |
-          - Node.js WAS
-          - express, Winston, body-parser, async module을 사용한 http server 제작
-          - pm2를 이용한 프로세스 관리
-          - 업적, 아레나, 던전 콘텐츠 제작
-          - db Sharding / schema / sp / Table 설계 작업
+        - Node.js WAS
+        - express, Winston, body-parser, async module을 사용한 http server 제작
+        - pm2를 이용한 프로세스 관리
+        - 업적, 아레나, 던전 콘텐츠 제작
+        - db Sharding / schema / sp / Table 설계 작업
 
     - role: 게임 서버 개발자
       time: 2012 - 2014
       company: FMStudio, 분당
       details: |
-          - C++ IOCP Tcp/ip 서버 제작
-          - C# Server library 제작 (logger, Thread, db conn 등)
-          - C# none-block async socket 사용한 Server 제작
-          - db schema / sp / Table 설계 작업
-          - 가챠 시스템, 친구 시스템 외 모든 콘텐츠 구현
-          - 카카오 api 연동 및 빌링 연동 
+        - C++ IOCP Tcp/ip 서버 제작
+        - C# Server library 제작 (logger, Thread, db conn 등)
+        - C# none-block async socket 사용한 Server 제작
+        - db schema / sp / Table 설계 작업
+        - 콘텐츠 구현
+        - 카카오 api 연동 및 빌링 연동 
 
     - role: MMORPG 기획자
       time: 2009 - 2011
