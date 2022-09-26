@@ -80,7 +80,7 @@ education:
           - Bullet point
 
 experiences:
-    - role: racing game server 개발
+    - role: racing game server 개발자
       time: 2022.05 - 현재
       company: (주)diverse
       details: |
@@ -93,7 +93,7 @@ experiences:
         - erc-20 smart contract 개발 및 배포
         - dotnet 6.0 / react 15 ts
 
-    - role: 백오피스 개발
+    - role: backoffice full stack 개발자
       time: 2020.07 - 2020.11 
       company: ㈜디렉트
       details: |
@@ -103,15 +103,16 @@ experiences:
         - defi contract 해석 및 alarm 서비스 개발
         - python 3.9
 
-    - role: front-end react chart 개발
+    - role: front-end 개발자
       time: 2020.07 - 2020.11 
       company: 에이프로테크
       details: |
+        - front-end react chart
         - canvas draw 이용 차트 개발
         - chart animantion 적용
         - react 15 / typescript
 
-    - role: 거래소 front-end
+    - role: 거래소 front-end 개발자
       time: 2019.11.30 - 2020.03.31
       company: 뉴럴비씨
       details: |
@@ -131,7 +132,7 @@ experiences:
         - bitcoin / etherium fullnode 구축 및 연동
         - node / typescript
         
-    - role: 슬롯머신 서버 개발
+    - role: 슬롯머신 서버 개발자
       time: 2019.02.25 - 2019.06.30
       company: 뉴럴비씨
       details: |
@@ -141,7 +142,7 @@ experiences:
         - 결제서버: 가상화폐 결제 연동
         - 정산서버: 추천인에게 누적 게임 플레이에 대한 주간 정산
 
-    - role: 백엔드 플랫폼 개발
+    - role: back-end 개발자
       time: 2018.07 - 2019.01
       company: 스마일게이트, 판교
       details: |
@@ -150,7 +151,7 @@ experiences:
         - GIT, Jenkins 빌드 배포
         - C# .NET, JAVA Spring
 
-    - role: 게임 서버 개발자
+    - role: 보드게임 서버 개발자
       time: 2017 - 2018
       company: 이디오크러시, 판교
       details: |
