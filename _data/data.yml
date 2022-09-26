@@ -82,7 +82,7 @@ education:
 experiences:
     - role: racing game server 개발자
       time: 2022.05 - 현재
-      company: (주)diverse
+      company: (주)diverse, 판교
       details: |
         - auth web server: 회원 관리 및 인증 서비스 개발
         - game web server: 베팅 및 out game 컨텐츠 개발
@@ -95,7 +95,7 @@ experiences:
 
     - role: backoffice full stack 개발자
       time: 2020.07 - 2020.11 
-      company: ㈜디렉트
+      company: ㈜디렉트, 서울
       details: |
         - front-end: vue3-ts, vuex4, quasar 사용 
         - back-end: node-ts, mongodb, graphql 사용 
@@ -105,7 +105,7 @@ experiences:
 
     - role: front-end 개발자
       time: 2020.07 - 2020.11 
-      company: 에이프로테크
+      company: 에이프로테크, 서울
       details: |
         - front-end react chart
         - canvas draw 이용 차트 개발
@@ -114,7 +114,7 @@ experiences:
 
     - role: 거래소 front-end 개발자
       time: 2019.11.30 - 2020.03.31
-      company: 뉴럴비씨
+      company: 뉴럴비씨, 서울
       details: |
         - 암호 화폐 거래소 front-end 개발
         - react, typescript를 이용한 front-end 개발
@@ -123,7 +123,7 @@ experiences:
 
     - role: 암호화폐 지갑 개발자
       time: 2019.06.30 - 2019.11.30
-      company: 뉴럴비씨
+      company: 뉴럴비씨, 서울
       details: |
         - user api server: 회원 관리 및 인증 서버
         - wallet api server: 지갑 관리 서비스 개발
@@ -134,7 +134,7 @@ experiences:
         
     - role: 슬롯머신 서버 개발자
       time: 2019.02.25 - 2019.06.30
-      company: 뉴럴비씨
+      company: 뉴럴비씨, 서울
       details: |
         - 인증서버: 회원 관리, 서버인증 개발
         - 로비서버: 미션, 상점, 일일 보상, 메일함, 추천인 개발
