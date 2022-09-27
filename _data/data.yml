@@ -91,17 +91,18 @@ experiences:
         - block sync app server: 블럭 정보 확인 시스템 개발
         - polygon fullnode 구축 및 연동
         - erc-20 smart contract 개발 및 배포
-        - dotnet 6.0 / react 17 ts
+        - dotnet 6.0 / react 17 ts / docker
 
     - role: backoffice full stack 개발자
       time: 2021.12 - 2022.03
       company: ㈜디렉트, 서울
       details: |
+        - backoffice 서비스 개발
+        - eth mainnet transaction 해석 및 데이터 가공
+        - defi contract 해석 및 alarm 서비스 개발
         - front-end: vue3-ts, vuex4, quasar 사용 
         - back-end: node-ts, mongodb, graphql 사용 
-        - eth mainnet transaction 해석 
-        - defi contract 해석 및 alarm 서비스 개발
-        - python 3.9
+        - app server: python 3.9, rabbitmq
 
     - role: front-end 개발자
       time: 2020.07 - 2020.11 
@@ -111,11 +112,11 @@ experiences:
         - chart realtime animantion 개발
         - react 15 / typescript
 
-    - role: 거래소 front-end 개발자
+    - role: 암호화폐 거래소 front-end 개발자
       time: 2019.11.30 - 2020.03.31
       company: 뉴럴비씨, 서울
       details: |
-        - 암호 화폐 거래소 front-end 개발
+        - 암호화폐 거래소 front-end 개발
         - react, typescript를 이용한 front-end 개발
         - media query를 이용한 반응형 웹 적용
         - postcss 이용한 마크업 적용
@@ -155,8 +156,8 @@ experiences:
       company: 이디오크러시, 판교
       details: |
         - auth api server: 회원관리 및 인증 서비스 개발
-        - lobby server: webSocket 서버, out game 컨텐츠 개발
-        - game server: webSocket 서버, 보드 게임 관련 로직(room 생성, 진행, 소멸) 개발
+        - lobby ws server: out game 컨텐츠 개발
+        - game ws server: 보드 게임 시스템 (room 생성, 진행, 소멸) 개발
         - matching server: mmr에 따른 matching 개발
         - ranking server: league season 개발
         - Protocol, client-server통신을 위한 DLL 개발
