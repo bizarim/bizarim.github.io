@@ -107,9 +107,8 @@ experiences:
       time: 2020.07 - 2020.11 
       company: 에이프로테크, 서울
       details: |
-        - front-end react chart
         - canvas draw 이용 차트 개발
-        - chart animantion 적용
+        - chart realtime animantion 개발
         - react 15 / typescript
 
     - role: 거래소 front-end 개발자
