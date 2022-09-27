@@ -48,7 +48,7 @@ career-profile:
     title: Career Profile
     summary: |
       game server develop 7년 |
-      back-end develop 3년 |
+      back-end develop 2년 |
       front-end develop 1년 |
       mmorpg 기획 2년 |
 
@@ -91,7 +91,7 @@ experiences:
         - block sync app server: 블럭 정보 확인 시스템 개발
         - polygon fullnode 구축 및 연동
         - erc-20 smart contract 개발 및 배포
-        - dotnet 6.0 / react 15 ts
+        - dotnet 6.0 / react 17 ts
 
     - role: backoffice full stack 개발자
       time: 2021.12 - 2022.03
